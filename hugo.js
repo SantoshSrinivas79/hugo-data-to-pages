@@ -7,7 +7,7 @@ let config = {
   type: 'article', //Type name [basically layout] (save it under "layouts/NAME/single.html" or themes/THEME/layouts/NAME/single.html). Can be overridden on individual pages by defining "type" under "fields"
   pages: 'articles', //Pages elemenet in your data, in case it's "posts" or "articles" etc.
   contentPath: 'content', //Path to content directory (in case it's not "content")
-  hugoPath: '/snap/bin/hugo' //Path to hugo binary (if global, e.g. /snap/bin/hugo)
+  hugoPath: '/usr/local/bin/hugo' //Path to hugo binary (if global, e.g. /snap/bin/hugo)
 }
 
 const fs = require('fs');

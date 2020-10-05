@@ -44,3 +44,8 @@ Flags:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+## Troubleshooting
+
+- [[SOLVED] Using HTML for content pages instead of Markdown - support - HUGO](https://discourse.gohugo.io/t/solved-using-html-for-content-pages-instead-of-markdown/3374/15)
